@@ -3,3 +3,6 @@ Added a line to make the feature work
 
 
 Buy Apples
+Wash the apples
+remove the stems
+then I peel the apples.

@@ -2,3 +2,7 @@ This file implements a brand new feature
 another line
 Making it work
 Had to add a new line to make it work
+
+This line makes the code eat bananas.
+
+Put all the bananas one basket and the apples in another.

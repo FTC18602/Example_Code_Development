@@ -2,3 +2,6 @@ line 1
 line 2
 Fixed line 3
 This needed to be fixed after adding in Feature 1
+
+Add a new line code to peel the banana first
+Add another line to throw the peel away.

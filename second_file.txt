@@ -1,3 +1,5 @@
 Added the second file
 Added another line
 Neede to add this line to make the feature work after merging
+
+Make it work because we eat both apples and bananas
